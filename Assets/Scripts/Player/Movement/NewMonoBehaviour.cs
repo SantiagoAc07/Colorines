@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Floormovement:
+public class Floormovement
 {
     // Use this for initialization
     void Start()
