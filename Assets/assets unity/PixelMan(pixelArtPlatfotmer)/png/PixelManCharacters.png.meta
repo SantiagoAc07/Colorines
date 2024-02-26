@@ -402,7 +402,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 18
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -461,6 +461,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -480,10 +493,10 @@ TextureImporter:
       name: PixelManCharacters_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +514,10 @@ TextureImporter:
       name: PixelManCharacters_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +535,10 @@ TextureImporter:
       name: PixelManCharacters_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 36
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +556,10 @@ TextureImporter:
       name: PixelManCharacters_3
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +577,10 @@ TextureImporter:
       name: PixelManCharacters_4
       rect:
         serializedVersion: 2
-        x: 80
+        x: 84
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -585,10 +598,10 @@ TextureImporter:
       name: PixelManCharacters_5
       rect:
         serializedVersion: 2
-        x: 96
+        x: 100
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,10 +619,10 @@ TextureImporter:
       name: PixelManCharacters_6
       rect:
         serializedVersion: 2
-        x: 128
+        x: 132
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,10 +640,10 @@ TextureImporter:
       name: PixelManCharacters_7
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +661,10 @@ TextureImporter:
       name: PixelManCharacters_8
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 240
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -669,10 +682,10 @@ TextureImporter:
       name: PixelManCharacters_9
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 224
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +703,10 @@ TextureImporter:
       name: PixelManCharacters_10
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 224
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -711,10 +724,10 @@ TextureImporter:
       name: PixelManCharacters_11
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 224
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -732,10 +745,10 @@ TextureImporter:
       name: PixelManCharacters_12
       rect:
         serializedVersion: 2
-        x: 80
+        x: 84
         y: 224
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -753,10 +766,10 @@ TextureImporter:
       name: PixelManCharacters_13
       rect:
         serializedVersion: 2
-        x: 128
+        x: 132
         y: 224
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,10 +787,10 @@ TextureImporter:
       name: PixelManCharacters_14
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 224
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -795,10 +808,10 @@ TextureImporter:
       name: PixelManCharacters_15
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 208
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -816,10 +829,10 @@ TextureImporter:
       name: PixelManCharacters_16
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 208
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -837,10 +850,10 @@ TextureImporter:
       name: PixelManCharacters_17
       rect:
         serializedVersion: 2
-        x: 32
+        x: 37
         y: 208
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -858,10 +871,10 @@ TextureImporter:
       name: PixelManCharacters_18
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 208
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -879,10 +892,10 @@ TextureImporter:
       name: PixelManCharacters_19
       rect:
         serializedVersion: 2
-        x: 64
+        x: 69
         y: 208
-        width: 16
-        height: 16
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -900,10 +913,10 @@ TextureImporter:
       name: PixelManCharacters_20
       rect:
         serializedVersion: 2
-        x: 80
+        x: 84
         y: 208
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -921,10 +934,10 @@ TextureImporter:
       name: PixelManCharacters_21
       rect:
         serializedVersion: 2
-        x: 96
+        x: 101
         y: 208
-        width: 16
-        height: 16
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -942,10 +955,10 @@ TextureImporter:
       name: PixelManCharacters_22
       rect:
         serializedVersion: 2
-        x: 112
+        x: 116
         y: 208
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -963,10 +976,10 @@ TextureImporter:
       name: PixelManCharacters_23
       rect:
         serializedVersion: 2
-        x: 128
+        x: 133
         y: 208
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,10 +997,10 @@ TextureImporter:
       name: PixelManCharacters_24
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 208
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1005,10 +1018,10 @@ TextureImporter:
       name: PixelManCharacters_25
       rect:
         serializedVersion: 2
-        x: 160
+        x: 165
         y: 208
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,10 +1039,10 @@ TextureImporter:
       name: PixelManCharacters_26
       rect:
         serializedVersion: 2
-        x: 176
+        x: 180
         y: 208
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1047,10 +1060,10 @@ TextureImporter:
       name: PixelManCharacters_27
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1068,10 +1081,10 @@ TextureImporter:
       name: PixelManCharacters_28
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1089,10 +1102,10 @@ TextureImporter:
       name: PixelManCharacters_29
       rect:
         serializedVersion: 2
-        x: 32
+        x: 36
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1110,10 +1123,10 @@ TextureImporter:
       name: PixelManCharacters_30
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1131,10 +1144,10 @@ TextureImporter:
       name: PixelManCharacters_31
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1165,10 @@ TextureImporter:
       name: PixelManCharacters_32
       rect:
         serializedVersion: 2
-        x: 80
+        x: 83
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1173,10 +1186,10 @@ TextureImporter:
       name: PixelManCharacters_33
       rect:
         serializedVersion: 2
-        x: 96
+        x: 100
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1194,10 +1207,10 @@ TextureImporter:
       name: PixelManCharacters_34
       rect:
         serializedVersion: 2
-        x: 112
+        x: 116
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1215,10 +1228,10 @@ TextureImporter:
       name: PixelManCharacters_35
       rect:
         serializedVersion: 2
-        x: 128
+        x: 132
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1236,10 +1249,10 @@ TextureImporter:
       name: PixelManCharacters_36
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1257,10 +1270,10 @@ TextureImporter:
       name: PixelManCharacters_37
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1278,10 +1291,10 @@ TextureImporter:
       name: PixelManCharacters_38
       rect:
         serializedVersion: 2
-        x: 192
+        x: 196
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1299,10 +1312,10 @@ TextureImporter:
       name: PixelManCharacters_39
       rect:
         serializedVersion: 2
-        x: 208
+        x: 212
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1320,10 +1333,10 @@ TextureImporter:
       name: PixelManCharacters_40
       rect:
         serializedVersion: 2
-        x: 224
+        x: 228
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1341,10 +1354,10 @@ TextureImporter:
       name: PixelManCharacters_41
       rect:
         serializedVersion: 2
-        x: 240
+        x: 244
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1362,10 +1375,10 @@ TextureImporter:
       name: PixelManCharacters_42
       rect:
         serializedVersion: 2
-        x: 256
+        x: 260
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1383,10 +1396,10 @@ TextureImporter:
       name: PixelManCharacters_43
       rect:
         serializedVersion: 2
-        x: 272
+        x: 276
         y: 176
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1404,10 +1417,10 @@ TextureImporter:
       name: PixelManCharacters_44
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,10 +1438,10 @@ TextureImporter:
       name: PixelManCharacters_45
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1446,10 +1459,10 @@ TextureImporter:
       name: PixelManCharacters_46
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1467,10 +1480,10 @@ TextureImporter:
       name: PixelManCharacters_47
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1488,10 +1501,10 @@ TextureImporter:
       name: PixelManCharacters_48
       rect:
         serializedVersion: 2
-        x: 96
+        x: 100
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1509,10 +1522,10 @@ TextureImporter:
       name: PixelManCharacters_49
       rect:
         serializedVersion: 2
-        x: 112
+        x: 116
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1530,10 +1543,10 @@ TextureImporter:
       name: PixelManCharacters_50
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1551,10 +1564,10 @@ TextureImporter:
       name: PixelManCharacters_51
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1572,10 +1585,10 @@ TextureImporter:
       name: PixelManCharacters_52
       rect:
         serializedVersion: 2
-        x: 192
+        x: 196
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1593,10 +1606,10 @@ TextureImporter:
       name: PixelManCharacters_53
       rect:
         serializedVersion: 2
-        x: 208
+        x: 212
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1614,10 +1627,10 @@ TextureImporter:
       name: PixelManCharacters_54
       rect:
         serializedVersion: 2
-        x: 240
+        x: 244
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1635,10 +1648,10 @@ TextureImporter:
       name: PixelManCharacters_55
       rect:
         serializedVersion: 2
-        x: 256
+        x: 260
         y: 160
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1656,10 +1669,10 @@ TextureImporter:
       name: PixelManCharacters_56
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 144
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1677,10 +1690,10 @@ TextureImporter:
       name: PixelManCharacters_57
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 144
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1698,10 +1711,10 @@ TextureImporter:
       name: PixelManCharacters_58
       rect:
         serializedVersion: 2
-        x: 48
+        x: 53
         y: 144
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1719,10 +1732,10 @@ TextureImporter:
       name: PixelManCharacters_59
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 144
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1740,10 +1753,10 @@ TextureImporter:
       name: PixelManCharacters_60
       rect:
         serializedVersion: 2
-        x: 96
+        x: 101
         y: 144
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1761,10 +1774,10 @@ TextureImporter:
       name: PixelManCharacters_61
       rect:
         serializedVersion: 2
-        x: 112
+        x: 116
         y: 144
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1782,10 +1795,10 @@ TextureImporter:
       name: PixelManCharacters_62
       rect:
         serializedVersion: 2
-        x: 144
+        x: 149
         y: 144
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1803,10 +1816,10 @@ TextureImporter:
       name: PixelManCharacters_63
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 144
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1824,10 +1837,10 @@ TextureImporter:
       name: PixelManCharacters_64
       rect:
         serializedVersion: 2
-        x: 192
+        x: 197
         y: 144
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1845,10 +1858,10 @@ TextureImporter:
       name: PixelManCharacters_65
       rect:
         serializedVersion: 2
-        x: 208
+        x: 212
         y: 144
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1866,10 +1879,10 @@ TextureImporter:
       name: PixelManCharacters_66
       rect:
         serializedVersion: 2
-        x: 240
+        x: 245
         y: 144
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1887,10 +1900,10 @@ TextureImporter:
       name: PixelManCharacters_67
       rect:
         serializedVersion: 2
-        x: 256
+        x: 260
         y: 144
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1908,10 +1921,10 @@ TextureImporter:
       name: PixelManCharacters_68
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1929,10 +1942,10 @@ TextureImporter:
       name: PixelManCharacters_69
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1950,10 +1963,10 @@ TextureImporter:
       name: PixelManCharacters_70
       rect:
         serializedVersion: 2
-        x: 32
+        x: 36
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1971,10 +1984,10 @@ TextureImporter:
       name: PixelManCharacters_71
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1992,10 +2005,10 @@ TextureImporter:
       name: PixelManCharacters_72
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2013,10 +2026,10 @@ TextureImporter:
       name: PixelManCharacters_73
       rect:
         serializedVersion: 2
-        x: 80
+        x: 84
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2034,10 +2047,10 @@ TextureImporter:
       name: PixelManCharacters_74
       rect:
         serializedVersion: 2
-        x: 96
+        x: 100
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2055,10 +2068,10 @@ TextureImporter:
       name: PixelManCharacters_75
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2076,10 +2089,10 @@ TextureImporter:
       name: PixelManCharacters_76
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2097,10 +2110,10 @@ TextureImporter:
       name: PixelManCharacters_77
       rect:
         serializedVersion: 2
-        x: 176
+        x: 180
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2118,10 +2131,10 @@ TextureImporter:
       name: PixelManCharacters_78
       rect:
         serializedVersion: 2
-        x: 192
+        x: 196
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2139,10 +2152,10 @@ TextureImporter:
       name: PixelManCharacters_79
       rect:
         serializedVersion: 2
-        x: 208
+        x: 212
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2160,10 +2173,10 @@ TextureImporter:
       name: PixelManCharacters_80
       rect:
         serializedVersion: 2
-        x: 224
+        x: 228
         y: 112
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2181,10 +2194,10 @@ TextureImporter:
       name: PixelManCharacters_81
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2202,10 +2215,10 @@ TextureImporter:
       name: PixelManCharacters_82
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2223,10 +2236,10 @@ TextureImporter:
       name: PixelManCharacters_83
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2244,10 +2257,10 @@ TextureImporter:
       name: PixelManCharacters_84
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2265,10 +2278,10 @@ TextureImporter:
       name: PixelManCharacters_85
       rect:
         serializedVersion: 2
-        x: 96
+        x: 100
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2286,10 +2299,10 @@ TextureImporter:
       name: PixelManCharacters_86
       rect:
         serializedVersion: 2
-        x: 112
+        x: 116
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2307,10 +2320,10 @@ TextureImporter:
       name: PixelManCharacters_87
       rect:
         serializedVersion: 2
-        x: 144
+        x: 148
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2328,10 +2341,10 @@ TextureImporter:
       name: PixelManCharacters_88
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2349,10 +2362,10 @@ TextureImporter:
       name: PixelManCharacters_89
       rect:
         serializedVersion: 2
-        x: 192
+        x: 196
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2370,10 +2383,10 @@ TextureImporter:
       name: PixelManCharacters_90
       rect:
         serializedVersion: 2
-        x: 208
+        x: 212
         y: 96
-        width: 16
-        height: 16
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2391,10 +2404,10 @@ TextureImporter:
       name: PixelManCharacters_91
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 80
-        width: 16
-        height: 16
+        width: 7
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2412,10 +2425,10 @@ TextureImporter:
       name: PixelManCharacters_92
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 80
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2433,10 +2446,10 @@ TextureImporter:
       name: PixelManCharacters_93
       rect:
         serializedVersion: 2
-        x: 48
+        x: 53
         y: 80
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2454,10 +2467,10 @@ TextureImporter:
       name: PixelManCharacters_94
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 80
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2475,10 +2488,10 @@ TextureImporter:
       name: PixelManCharacters_95
       rect:
         serializedVersion: 2
-        x: 96
+        x: 101
         y: 80
-        width: 16
-        height: 16
+        width: 7
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2496,10 +2509,10 @@ TextureImporter:
       name: PixelManCharacters_96
       rect:
         serializedVersion: 2
-        x: 112
+        x: 116
         y: 80
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2517,10 +2530,10 @@ TextureImporter:
       name: PixelManCharacters_97
       rect:
         serializedVersion: 2
-        x: 144
+        x: 149
         y: 80
-        width: 16
-        height: 16
+        width: 7
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2538,10 +2551,10 @@ TextureImporter:
       name: PixelManCharacters_98
       rect:
         serializedVersion: 2
-        x: 160
+        x: 164
         y: 80
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2559,10 +2572,10 @@ TextureImporter:
       name: PixelManCharacters_99
       rect:
         serializedVersion: 2
-        x: 192
+        x: 197
         y: 80
-        width: 16
-        height: 16
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2580,10 +2593,10 @@ TextureImporter:
       name: PixelManCharacters_100
       rect:
         serializedVersion: 2
-        x: 208
+        x: 212
         y: 80
-        width: 16
-        height: 16
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2601,9 +2614,9 @@ TextureImporter:
       name: PixelManCharacters_101
       rect:
         serializedVersion: 2
-        x: 0
+        x: 2
         y: 48
-        width: 16
+        width: 13
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2622,9 +2635,9 @@ TextureImporter:
       name: PixelManCharacters_102
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 48
-        width: 16
+        width: 9
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2643,10 +2656,10 @@ TextureImporter:
       name: PixelManCharacters_103
       rect:
         serializedVersion: 2
-        x: 48
+        x: 50
         y: 48
-        width: 16
-        height: 16
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2664,10 +2677,10 @@ TextureImporter:
       name: PixelManCharacters_104
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 48
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2685,9 +2698,9 @@ TextureImporter:
       name: PixelManCharacters_105
       rect:
         serializedVersion: 2
-        x: 96
+        x: 101
         y: 48
-        width: 16
+        width: 8
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2706,9 +2719,9 @@ TextureImporter:
       name: PixelManCharacters_106
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 32
-        width: 16
+        width: 9
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2727,10 +2740,10 @@ TextureImporter:
       name: PixelManCharacters_107
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 32
-        width: 16
-        height: 16
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2748,10 +2761,10 @@ TextureImporter:
       name: PixelManCharacters_108
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 32
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2769,10 +2782,10 @@ TextureImporter:
       name: PixelManCharacters_109
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 32
-        width: 16
-        height: 16
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2790,10 +2803,10 @@ TextureImporter:
       name: PixelManCharacters_110
       rect:
         serializedVersion: 2
-        x: 96
+        x: 101
         y: 32
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2811,10 +2824,10 @@ TextureImporter:
       name: PixelManCharacters_111
       rect:
         serializedVersion: 2
-        x: 112
+        x: 117
         y: 32
-        width: 16
-        height: 16
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2832,9 +2845,9 @@ TextureImporter:
       name: PixelManCharacters_112
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 16
-        width: 16
+        width: 9
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2853,9 +2866,9 @@ TextureImporter:
       name: PixelManCharacters_113
       rect:
         serializedVersion: 2
-        x: 16
+        x: 20
         y: 16
-        width: 16
+        width: 9
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2874,10 +2887,10 @@ TextureImporter:
       name: PixelManCharacters_114
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 16
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2895,10 +2908,10 @@ TextureImporter:
       name: PixelManCharacters_115
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 16
-        width: 16
-        height: 16
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2916,10 +2929,10 @@ TextureImporter:
       name: PixelManCharacters_116
       rect:
         serializedVersion: 2
-        x: 96
+        x: 101
         y: 16
-        width: 16
-        height: 16
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2937,10 +2950,10 @@ TextureImporter:
       name: PixelManCharacters_117
       rect:
         serializedVersion: 2
-        x: 112
+        x: 117
         y: 16
-        width: 16
-        height: 16
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
